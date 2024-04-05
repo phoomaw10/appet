@@ -1,0 +1,23 @@
+.home-section {
+    display: flex;
+    align-items: center;
+  }
+  
+  .photo-container {
+    flex: 0 0 auto;
+    margin-right: 20px;
+  }
+  
+  .circular-image {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+  }
+  
+  .text-container {
+    flex: 1;
+  }
+  
+  .photo-container {
+    margin-right: 10px; /* Adjust margin between photo and text */
+  }
